@@ -1,7 +1,7 @@
 # SchoonSquare Font
 
 SchoonSquare is a pixel font created by Michiel van Kleef and based on a 5x9 grid. It was originally made in BitFontMaker and then optimized, corrected and saved in FontForge.
-[Download font](SchoonSquare-regular.ttf?raw=true)
+[Download font](SchoonSquare-Regular.ttf?raw=true)
 
 ![Example](example02.png?raw=true)
 
