@@ -4,7 +4,7 @@ SchoonSquare is a pixel font created by Michiel van Kleef and based on a 5x9 gri
 
 [**DOWNLOAD FONT**](SchoonSquare-Regular.ttf?raw=true) or [Try Font](https://schoonontwerp.nl/test/square/)
 
-![Example](example02.png?raw=true)
+![Example](example02.gif?raw=true)
 
 --
 
@@ -23,9 +23,10 @@ scripts.
 
 **ChangeLog**
 
-SchoonSquare 1.1
+SchoonSquare 1.2
 - Initial release
 - Wider m&w. Various small fixes
+- Changed height of capitals
 
 **License**
 
