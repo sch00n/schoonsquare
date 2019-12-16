@@ -23,11 +23,12 @@ scripts.
 
 **ChangeLog**
 
-SchoonSquare 1.3
+SchoonSquare 1.35
 - Initial release
 - Wider m&w. Various small fixes
 - Changed height of capitals
 - Various fixes
+- New styles for halves and quarters
 
 **License**
 
